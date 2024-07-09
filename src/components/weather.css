@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0 0 0 0;
+    color: beige;
+    transition: all 700ms;
+    -webkit-transition: all 700ms;
+    -moz-transition: all 700ms;
+    -ms-transition: all 700ms;
+    -o-transition: all 700ms;
+}
+.main-weather{
+    /* margin: 0 10px; */
+    max-width: 280px;
+    margin: auto;
+    text-align: center;
+
+}
+hr{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+p{
+    
+    margin: 0;
+    padding:11pX;
+}
+p:hover{
+    background-color:#eab54b;
+    border-style: none; 
+    border-bottom-left-radius: 33px;
+    border-top-right-radius: 33px;
+}
